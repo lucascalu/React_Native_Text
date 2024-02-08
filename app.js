@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   abc: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'left',-
+    alignItems: 'left',
     justifyContent: 'top',
   },
   aa: {
